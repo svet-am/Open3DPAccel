@@ -1,0 +1,6 @@
+Xilinx Target Device
+Zynq-7000 XC7Z010-CLG400 (1st Generation Digilent ZYBO)
+Embedded Xilinx MicroBlaze in Real-Time profile @ 125MHz
+
+Comparison Device
+ST Micro STM32F405xx (84MHz-180MHz) from FlashForge Dreamer
